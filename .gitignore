@@ -2,4 +2,6 @@
 /.settings/
 /.classpath
 /.DS_store
+/.project
+/gitignore
 
