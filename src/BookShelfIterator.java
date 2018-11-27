@@ -9,7 +9,7 @@ public class BookShelfIterator implements Iterator {
 
     public boolean hasNext() {
         if (index < bookShelf.getLength()) {
-            return ture;
+            return true;
         } else {
             return false;
         }
